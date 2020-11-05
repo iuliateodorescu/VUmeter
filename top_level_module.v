@@ -17,7 +17,7 @@ wire[127:0] data_fifo;
 
 parameter bit_no = 16;
 parameter reg_no = 16;
-parameter freq_in = 100000000;      //50MHz
+parameter freq_in = 100000000;      //100MHz
 parameter uart_freq = 153600;       //9600 * 16
 parameter vga_freq = 25000000;      //25MHz
 
